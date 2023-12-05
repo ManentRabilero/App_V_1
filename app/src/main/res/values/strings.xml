@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_V_1</string>
+    <string name="title_home">Home</string>
+    <string name="title_equipos">Equipos</string>
+    <string name="title_puntuaciones">Puntuaciones</string>
+    <string name="title_dinamicas">Dinámicas Grupales</string>
+</resources>

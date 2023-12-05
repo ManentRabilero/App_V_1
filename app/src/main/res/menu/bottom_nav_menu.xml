@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_equipos"
+        android:icon="@drawable/ic_group_black_24dp"
+        android:title="@string/title_equipos" />
+
+    <item
+        android:id="@+id/navigation_puntuaciones"
+        android:icon="@drawable/ic_poll_black_24dp"
+        android:title="@string/title_puntuaciones" />
+
+    <item
+        android:id="@+id/navigation_dinamicas"
+        android:icon="@drawable/ic_school_black_24dp"
+        android:title="@string/title_dinamicas" />
+
+</menu>
