@@ -19,13 +19,13 @@
 
     <fragment
         android:id="@+id/navigation_puntuaciones"
-        android:name="com.tesis.app_v_1.ui.dinamicas.PuntuacionesFragment"
+        android:name="com.tesis.app_v_1.ui.puntuaciones.PuntuacionesFragment"
         android:label="@string/title_puntuaciones"
         tools:layout="@layout/fragment_puntuaciones" />
 
     <fragment
         android:id="@+id/navigation_dinamicas"
-        android:name="com.tesis.app_v_1.ui.daks.DinamicasFragment"
-        android:label="@string/title_puntuaciones"
+        android:name="com.tesis.app_v_1.ui.dinamicas.DinamicasFragment"
+        android:label="@string/title_dinamicas"
         tools:layout="@layout/fragment_puntuaciones" />
 </navigation>
